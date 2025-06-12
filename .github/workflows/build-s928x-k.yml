@@ -3,7 +3,7 @@
 # Copyright (C) 2021 https://github.com/ophub/amlogic-s9xxx-armbian
 #==========================================================================
 
-name: Build Armbian using releases files
+name: Build Armbian S928X-K
 
 on:
   repository_dispatch:
